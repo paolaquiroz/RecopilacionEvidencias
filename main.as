@@ -49,7 +49,7 @@
 			ind.y=408.5;
 			g1.addEventListener(MouseEvent.CLICK,G1);
 			g2.addEventListener(MouseEvent.CLICK,G2);
-			//g3.addEventListener(MouseEvent.CLICK,G3);
+			g3.addEventListener(MouseEvent.CLICK,G3);
 			stage.removeChild(swf);
 		}
 		function Conclusiones (event:MouseEvent):void{
@@ -192,15 +192,15 @@
 			swf.x=320														
 			swf.y=60														
 		}
-		/*function G3 (event:MouseEvent):void{								
+		function G3 (event:MouseEvent):void{								
 			Gvisible();
 			var archivoSWF:String = "Galeria3.swf"						
 			var descargaSWF:URLRequest = new URLRequest(archivoSWF);		
 			swf.load(descargaSWF);											
 			stage.addChild(swf); 											
 			swf.x=320														
-			swf.y=60		
-		}*/
+			swf.y=50		
+		}
 		function Pvisible(){
 			p1.visible=false;												//se ponen invisiles todos los botones
 			p2.visible=false;
@@ -221,8 +221,9 @@
 		function Gvisible(){
 			g1.visible=false;												//se ponen invisiles todos los botones
 			g2.visible=false;
-			//g3.visible=false;
+			g3.visible=false;
 		}
+		
 	}
 	
 }

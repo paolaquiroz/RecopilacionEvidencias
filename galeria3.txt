@@ -1,0 +1,85 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<lugares>
+	<location>
+		<imagen>1.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>2.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>3.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>4.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>5.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>6.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>7.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>8.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>9.jpg</imagen>
+	</location>
+
+	<location>
+		<imagen>10.jpg</imagen>
+	</location>
+
+	<location>
+		<imagen>11.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>12.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>13.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>14.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>15.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>16.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>17.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>18.jpg</imagen>
+	</location>
+	
+	<location>
+		<imagen>19.jpg</imagen>
+	</location>
+
+	<location>
+		<imagen>20.jpg</imagen>
+	</location>
+	
+	<location>
+		
+</lugares>
