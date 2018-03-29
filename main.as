@@ -1,6 +1,6 @@
 ﻿package  {
 	
-	import flash.display.MovieClip;
+	import flash.display.MovieClip;											//librerias
 	import flash.events.MouseEvent;
 	import flash.display.Loader;
     import flash.net.URLRequest;
